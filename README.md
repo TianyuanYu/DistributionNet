@@ -4,7 +4,7 @@ This repo contains the reference source code for the paper [Robust Person Re-ide
 
 
 ## Enviroment
- - Python2.7
+ - Python 2.7
  - Tensorflow 1.3.0
 
 ## Getting started
