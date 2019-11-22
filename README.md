@@ -19,7 +19,7 @@ Folder 'pretrained_model' includes Resnet-50 pretrained in ImageNet
 
 ## Train and Test
 Run
-```bash pipeline_opensource.sh```
+```bash pipeline.sh```
 
 ## Results
 The test results will be recorded in `./result/model_name/rank.txt`
