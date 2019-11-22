@@ -22,4 +22,4 @@ Run
 ```bash pipeline_opensource.sh```
 
 ## Results
-* The test results will be recorded in `./result/model_name/rank.txt`
+The test results will be recorded in `./result/model_name/rank.txt`
